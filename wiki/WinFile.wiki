@@ -1,0 +1,13 @@
+#summary WinFile Description
+
+= Introduction =
+
+This is the filemanager, for me, not only for file management but to quick play audio files and saw my pictures :) (I have to say that for hex editing and quick in-use-file copy I still use X-Plore and the great Fexplorer, the first and the most easy)
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
