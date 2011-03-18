@@ -2,7 +2,7 @@
 
 == NOTE ==
 
-The developement is still going on but the sources here aren't updated since I had to fix a lot of things. Don't see the old source because a lot of code (mainly graphics, but not only) is changed.
+The developement is still going on but the sources here aren't updated since I had to fix a lot of things. Don't use the old source because a lot of code (mainly graphics, but not only) is changed.
 
 
 = Changelog of latest source (NOT uploaded) =
@@ -10,6 +10,7 @@ The developement is still going on but the sources here aren't updated since I h
 
 IDEE:
 
+{{{
 - some general code cleaned
 - added: quick (sub)menu selection by number keys
 - some menu graphics improved; complete new code; new (sub)menu skinUI definitions
@@ -54,6 +55,7 @@ IDEE:
 - Some lines_render bugs fixed
 - Introduced begin_redraw/end_redraw to solve lots of non-sense bugs in 3rd edition
 - Started to complete touch implementation
+}}}
 
 Known Defects:
 
